@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="460" height="300" src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi76O2W053fAhXDyaQKHc7LD8AQjRx6BAgBEAU&url=http%3A%2F%2Fhiggledygarden.com%2F2015%2F01%2F23%2Freasons-to-grow-annual-flowers-for-your-cutting-patch%2F&psig=AOvVaw0Mmyf0_3hPqKJKEVQZrMn6&ust=1544819437761529">
+  <img width="460" height="300" src="https://www.google.com/search?client=opera&tbm=isch&q=sunflower&chips=q:sunflower,g_1:wallpaper:8DYtYFf-zcM%3D&usg=AI4_-kRSe17FMjZcSh8Gk_R14wszvqvaAA&sa=X&ved=0ahUKEwiFopXd053fAhUll4sKHeV2DlwQ4lYIJSgA&biw=1517&bih=731&dpr=0.9#imgrc=Vbh5hMtEYRCHaM:">
 </p>
 # SunFollower
 In modern solar tracking systems, the solar panels are fixed on a structure that moves according to the position of the sun.
